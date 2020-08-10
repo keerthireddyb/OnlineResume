@@ -1,0 +1,52 @@
+.profile img{
+    border-radius: 50%;
+    height: auto;
+    width: 250px;
+    position: relative;
+    top: 10%; 
+    left: 15%;
+    border: 6px solid rgb(86, 162, 212);
+  }
+  
+  .nameStyle{
+    font-weight: bolder;
+    font-size: 60px;
+    margin-top:200px;
+  }
+  .subHead{
+      font-weight: 500;
+  }
+  .occupationStyle{
+    font-size: medium;
+    font-size: 20px;
+    color:rgb(86, 162, 212);
+  }
+  
+  .keyStyle{
+    color:rgb(86, 162, 212);
+    font-weight: bold;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+  }
+  
+  .headStyle{
+    font-weight: bold;
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    width: 100%;
+  }
+  .valueStyle{
+    padding-top: 10px;
+  }
+  
+ .progress{
+     width: 50%;
+     margin-top: 16px;
+ }
+ .tempcolor{
+     color: black;
+ }
